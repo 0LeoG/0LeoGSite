@@ -1,0 +1,9 @@
+#card{
+    width: 50%;
+    height: 50%;
+}
+
+.cardFlex{
+    display: flex;
+    justify-content: center;
+}
